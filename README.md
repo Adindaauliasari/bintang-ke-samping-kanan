@@ -1,0 +1,1 @@
+# bintang-ke-samping-kanan
