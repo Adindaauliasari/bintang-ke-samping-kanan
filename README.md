@@ -6,7 +6,7 @@ int main ()
 
 {
 
-      int n, i, j;
+      int n, i, j ;
       
       cout << "Masukkan jumlah baris: ";
       cin >> n;
@@ -14,15 +14,15 @@ int main ()
       {
             for (j = 1; j <= i; j++)
             {
-                  cout << "*";
+                  cout << "*" ;
             }
-            cout << "\n";
+            cout << "\n" ;
       }
       for (i = n; i >= 1; i--)
       {
             for (j = 1; j <= i; j++)
             {
-                  cout << "*";
+                  cout << "*" ;
             }
             
       }
